@@ -1,3 +1,4 @@
 Flask
 python-deriv-api
 gunicorn
+requests
